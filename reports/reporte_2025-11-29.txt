@@ -1,0 +1,35 @@
+=== REPORTE DE CAMPAÑAS (2025-11-29) ===
+
+----------------------------------------
+ID_CAMPANA: 5
+NOMBRE: Campaña Black Friday
+FECHA_CREACION: 2025-11-29 00:00:00.0
+ESTADO: ACTIVA
+----------------------------------------
+🔹 DETALLES DE LA CAMPAÑA:
+- ID_DETALLE: 22
+- TELEFONO: 5550123456
+- MENSAJE: ¡Black Friday ha llegado! Grandes descuentos
+- FECHA_ENVIO: 2025-02-13 03:58:17.0
+----------------------------------------
+- ID_DETALLE: 23
+- TELEFONO: 5551234567
+- MENSAJE: Electrónica con hasta 50% de descuento
+- FECHA_ENVIO: 2025-02-12 03:58:17.0
+----------------------------------------
+- ID_DETALLE: 24
+- TELEFONO: 5552345678
+- MENSAJE: Solo por hoy: precios increíbles
+- FECHA_ENVIO: 2025-02-11 03:58:17.0
+----------------------------------------
+- ID_DETALLE: 25
+- TELEFONO: 5553456789
+- MENSAJE: ¡Compra ahora y ahorra!
+- FECHA_ENVIO: 2025-02-10 03:58:17.0
+----------------------------------------
+- ID_DETALLE: 26
+- TELEFONO: 5554567890
+- MENSAJE: Cupón especial para Black Friday
+- FECHA_ENVIO: 2025-02-09 03:58:17.0
+----------------------------------------
+

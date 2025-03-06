@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: middleware
+
+  datasource:
+    url: jdbc:oracle:thin:@localhost:1521/free
+    username: system
+    password: Ora1234
+    driver-class-name: oracle.jdbc.OracleDriver
+
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: report-group
+      concurrency: 3
+      auto-offset-reset: earliest
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+    listener:
+      type: batch
